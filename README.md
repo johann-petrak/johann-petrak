@@ -1,3 +1,3 @@
 [Home Page](https://johann-petrak.github.io)
 
-[![codesrank.io](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johann-petrak&show-header=true&branding=false&show-avatar=false)](https://profile.codersrank.io/user/johann-petrak)
+<a href="https://profile.codersrank.io/user/johann-petrak"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johann-petrak&show-header=true&branding=false&show-avatar=false" width="500px" alt="codesrank.io"></a>
